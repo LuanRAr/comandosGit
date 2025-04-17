@@ -7,4 +7,3 @@ cat - diz o que tem dentro do arquivo
 nano (arquivo.extensao) - cria arquivo e escreve nele
 rm - remove arquivo
 rm -rf - remove de forma recursiva e forçada todos os diretórios
-

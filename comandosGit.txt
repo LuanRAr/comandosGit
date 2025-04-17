@@ -2,3 +2,7 @@ git init . - dá um init
 git add - adiciona ao repositório
 git commit -m "frase" - cria commit com frase
 git log - ve histórico de commits
+git add . - manda todos os arquivos pro repositório
+git reset (nome do arquivo.) - cancela o arquivo que foi mandado pro repositório sem dar commit
+git checkout -b (nome da branch que vc quiser) - cria uma branch (-b) é pra quando você ainda n tem uma branch
+git branch - mostra todas as branchs do projeto
