@@ -1,2 +1,4 @@
-estou no nano fuuuuuuuck!!!!!!
-criei o arquivo usando nano + nome
+git init . - dá um init
+git add - adiciona ao repositório
+git commit -m "frase" - cria commit com frase
+git log - ve histórico de commits

@@ -4,10 +4,6 @@ pwd - mostra o caminho do diretório que estou
 ls -a exibe arquivos ocultos
 mkdir - cria pasta nova
 cat - diz o que tem dentro do arquivo
-git init . - dá um init
-git add - adiciona ao repositório
-git commit -m "frase" - cria commit com frase
-git log - ve histórico de commits
 nano (arquivo.extensao) - cria arquivo e escreve nele
 rm - remove arquivo
 rm -rf - remove de forma recursiva e forçada todos os diretórios
