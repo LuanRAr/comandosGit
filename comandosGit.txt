@@ -6,3 +6,6 @@ git add . - manda todos os arquivos pro repositório
 git reset (nome do arquivo.) - cancela o arquivo que foi mandado pro repositório sem dar commit
 git checkout -b (nome da branch que vc quiser) - cria uma branch (-b) é pra quando você ainda n tem uma branch
 git branch - mostra todas as branchs do projeto
+git checkout main - volta pra main	
+git merge (traz arquivos da branch alterados) - quando vc está na branch main e traz informações da secundaria
+git branch -d (nome da branch) - deleta a git secundaria
