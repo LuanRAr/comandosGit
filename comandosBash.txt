@@ -1,0 +1,7 @@
+ls - listar
+cd - muda de diretório
+pwd - mostra o caminho do diretório que estou
+ls -a exibe arquivos ocultos
+mkdir - cria pasta nova
+cat - diz o que tem dentro do arquivo
+git init . - dá um init
